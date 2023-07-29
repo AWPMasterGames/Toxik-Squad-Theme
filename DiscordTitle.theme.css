@@ -1,0 +1,12 @@
+.titleBar-1it3bQ::before {
+    content: "❤ TOXIK SQUAD ❤";
+    position: absolute;
+    top: 7px;
+    left: 12px;
+    height: 20px;
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+    font-weight: 1000;
+    font-size: 10.90999px;
+	font-family: "Times New Roman";
+}
